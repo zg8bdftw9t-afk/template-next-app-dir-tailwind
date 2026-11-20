@@ -2,8 +2,8 @@ import { Metadata, Viewport } from "next";
 import "../../styles/global.css";
 
 export const metadata: Metadata = {
-  title: "Remotion and Next.js",
-  description: "Remotion and Next.js",
+  title: "Editor Video",
+  description: "Editor video berbasis browser ala CapCut",
 };
 
 export const viewport: Viewport = {
